@@ -92,5 +92,8 @@ public class ThirdTask {
 			System.out.println("Not a single row with different values was found.");
 		}
 	}
+	public void test(){
+		System.out.println();
+	}
 
 }
